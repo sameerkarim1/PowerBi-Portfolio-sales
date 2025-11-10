@@ -1,5 +1,5 @@
 Setup
-•	This project requires SQL Server (SQL Express), Power BI Desktop
+*This project requires SQL Server (SQL Express), Power BI Desktop
 •	Compare DW and LT data to understand the difference between structured and unstructured data. We will primarily be working with Data Warehouse data..
 Business Request & User Stories
 •	Read the sample business request, demand overview & filled-out user stories to understand the problem we are trying to solve with Data Analysis and what we consider as a solution.
@@ -24,4 +24,5 @@ Create Dashboard in Power BI
 •	Gradient Bar Chart Color
 •	Customer Details
 •	Pivot Table
+
 
